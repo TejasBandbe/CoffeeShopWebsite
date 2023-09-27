@@ -27,8 +27,15 @@
         http://www.responsinator.com/
         copy website url and paste in responsinator
     10. Minify html, css and js files
-        https://www.willpeavy.com/tools/minifier/
+        https://www.toptal.com/developers/javascript-minifier
+        http://kangax.github.io/html-minifier/
+        https://www.toptal.com/developers/cssminifier
     11. Deploy website
         https://www.netlify.com/
         create and account -> login -> sites -> drag and drop project folder or browse ->
         the link will be provided by netlify
+
+## Link to access hosted website
+    https://cafemonsoon.netlify.app/
+
+## QR code to access website is aslo added in this repository
